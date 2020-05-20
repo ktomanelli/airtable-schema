@@ -1,7 +1,7 @@
-const fetch = require('./index')
+const fetch = require('./index');
 
 fetch({
   email: 'me@example.com',
   password: '123456passWrd7890!^',
   baseId: 'app88WhI2wIJB4mer',
-})
+});
